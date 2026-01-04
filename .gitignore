@@ -1,0 +1,8 @@
+.idea/
+out/
+*.ipr
+*.iws
+*.iml
+.DS_Store
+*.3mf
+*.stl
