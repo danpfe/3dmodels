@@ -60,10 +60,10 @@ group() {
       cylinder(h = 24, r = 2.5, center = true);
     }
     translate([-16, -4.5, 0]) {
-      cube([3, 9, 24], center = true);
+      cube([2, 9, 24], center = true);
     }
     translate([16, -4.5, 0]) {
-      cube([3, 9, 24], center = true);
+      cube([2, 9, 24], center = true);
     }
   }
 }
